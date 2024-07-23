@@ -1,0 +1,2 @@
+https://cloudbytes.dev/snippets/run-selenium-and-chrome-on-wsl2#step-1-install-wsl2
+
